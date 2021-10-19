@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Veggie's Dev Garden"
+title                    : "Veggie's Dev Garden" # 상단의 보여지는 이름
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "서채원"
+name                     : "veggie-garden"
 description              : "Veggie's GitHub.io"
 url                      : "https://veggie-garden.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -111,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:devcseo@gmail.com"
+      # url: "mailto:devcseo@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://veggie-garden.tistory.com/"
