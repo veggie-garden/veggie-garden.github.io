@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "veggie-garden"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "개발 공부하는 야채 정원"
   location         : "Republic of Korea"
   email            : "devcseo@gmail.com"
