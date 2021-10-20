@@ -5,7 +5,7 @@ excerpt: "GitHub.io 첫 블로그 포스팅"
 categories:
 - Blog
 tags:
-- [Blog, Jekyll, GitHub, Git]
+- [Jekyll, GitHub.io]
 
 toc: true
 toc_sticky : true
