@@ -26,8 +26,8 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "veggie-garden/veggie-garden.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/favi/favicon.ico"
-masthead_title           : "개발 공부하는 야채"
-breadcrumbs            : true 
+masthead_title           : "개발 공부하는 야채 정원"
+breadcrumbs              : true 
 words_per_minute         : 200
 
 # comments
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "veggie-garden"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "개발 공부하는 야채 정원"
+  bio              : "개발 지식 샐러드 먹는 중🥗"
   location         : "Republic of Korea"
   email            : "devcseo@gmail.com"
   links:
