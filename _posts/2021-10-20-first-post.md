@@ -3,9 +3,9 @@ title: "[GitHub.io] 블로그 포스팅"
 excerpt: "GitHub.io 첫 블로그 포스팅"
 
 categories:
-	- Blog
+- Blog
 tags:
-	- [Blog, Jekyll, GitHub, Git]
+- [Blog, Jekyll, GitHub, Git]
 
 toc: true
 toc_sticky : true
