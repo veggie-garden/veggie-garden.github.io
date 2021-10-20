@@ -114,7 +114,7 @@ author:
       # url: "mailto:devcseo@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://veggie-garden.tistory.com/"
+      url: (https://veggie-garden.tistory.com/){:target="_blank"} # "https://veggie-garden.tistory.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
